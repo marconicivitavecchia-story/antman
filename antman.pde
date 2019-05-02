@@ -20,7 +20,7 @@ void draw() {
 
   if (antman>=750) {
     background(#00FF00);
-    fill(#FFFFFF);
+    fill(#6F6F6F);
     rect(1000, height/2, 200, 200);
     fill(#0ADBE9);
     rect(wasp, height/2, 200, 200);
