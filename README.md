@@ -7,3 +7,4 @@ prossimamente
 
 # Prototipo
 ![Screenshot antman prototipe](https://github.com/marconicivitavecchia-story/antman/blob/master/Cattura.PNG%20AntMan.PNG)
+rosso antman, azzurro wasp(l'amica), bianco ghost wasp(nemico).
